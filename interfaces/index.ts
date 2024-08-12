@@ -1,0 +1,1 @@
+import * from './reqres.interface'
